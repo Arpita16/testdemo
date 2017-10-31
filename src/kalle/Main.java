@@ -2,6 +2,8 @@ package kalle;
 
 public class Main {
 
-	String message = "hejsan";
+	String message1 = "hejsan";
+	String message2 = "Arpita";
+
 
 }
